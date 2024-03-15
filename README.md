@@ -1,5 +1,5 @@
 # TimeFormatConverter
-A program to convert from 24-hour notation to 12-hour notation
+
 This is a simple C++ program to convert a given time from 24-hour notation to 12-hour notation. 
 It prompts the user to enter the hours and minutes, validates the input, and then displays the converted time.
 
